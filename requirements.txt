@@ -1,7 +1,7 @@
 streamlit
 streamlit_webrtc
 torch
-
+pip
 torchvision
 opencv-python
 matplotlib
